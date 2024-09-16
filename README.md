@@ -15,3 +15,5 @@ The two most important files are:
 * *Train_AudioMamba3.py*: this file contains the code to train the model.
 
 Then, *listen_audios.ipynb* is a notebook to listen to the audios produced by the model, while *test_MambaWave.ipynb* is the notebook used to test the results of the model (contained in the two .csv files).
+
+Finally, you can find a brief introduction to Mamba, Diffusion Models and MambaWave in the file *MambaWave.pdf*.
