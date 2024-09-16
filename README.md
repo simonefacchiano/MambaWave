@@ -11,5 +11,5 @@ The architecture of MambaWave draws ispiration from DiffWave. It implements one 
 
 ### Structure of the repo
 The two most important files are:
-* DiffWave_simone3.py
-* Train_AudioMamba3.py
+* *DiffWave_simone3.py*: this file contains the code for the MambaWave model.
+* *Train_AudioMamba3.py*: this file contains the code to train the model.
