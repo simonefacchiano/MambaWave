@@ -10,4 +10,6 @@ The architecture of MambaWave draws ispiration from DiffWave. It implements one 
 ![Diagramma del progetto](MambaWave.png)
 
 ### Structure of the repo
-
+The two most important files are:
+* DiffWave_simone3.py
+* Train_AudioMamba3.py
