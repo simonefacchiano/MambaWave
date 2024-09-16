@@ -13,3 +13,5 @@ The architecture of MambaWave draws ispiration from DiffWave. It implements one 
 The two most important files are:
 * *DiffWave_simone3.py*: this file contains the code for the MambaWave model.
 * *Train_AudioMamba3.py*: this file contains the code to train the model.
+
+Then, *questo* is a notebook to listen to the audios produced by the model, while *quest'altro* is the notebook used to test the results of the model (contained in the two .csv files).
