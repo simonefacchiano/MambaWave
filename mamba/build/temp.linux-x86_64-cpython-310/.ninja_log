@@ -1,0 +1,21 @@
+# ninja log v5
+0	56803	1719327996846383807	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan.o	a487c9ddfda1b91a
+127	123033	1719328063017752712	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp32.o	119882a34473c704
+111	127992	1719328067965705457	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp16.o	a41ff52ce638163c
+95	128386	1719328068369701599	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_bf16.o	5325291ee76a117
+71	189385	1719328129385118208	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_real.o	5ef6cc52ce45e5b1
+51	190712	1719328130713105497	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_real.o	b4b090eab1e2464c
+23	198117	1719328138109034698	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_real.o	bd4b58f6ad26327
+63	232880	1719328172880701623	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_complex.o	d3ca6013f2bb88e9
+35	235519	1719328175520676319	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_complex.o	f6c9e1a144e769be
+11	239346	1719328179340639704	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_complex.o	4281fa2f33ae7915
+18	48237	1720382412826235007	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan.o	a487c9ddfda1b91a
+20	105160	1720382469681616446	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp16.o	a41ff52ce638163c
+20	105751	1720382470257610179	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_fp32.o	119882a34473c704
+19	109406	1720382473953569963	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_fwd_bf16.o	5325291ee76a117
+19	156810	1720382521345054243	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_real.o	5ef6cc52ce45e5b1
+19	157618	1720382522149045495	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_real.o	b4b090eab1e2464c
+19	164389	1720382528920971794	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_real.o	bd4b58f6ad26327
+19	189241	1720382553776701266	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp32_complex.o	d3ca6013f2bb88e9
+19	190573	1720382555100686854	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_fp16_complex.o	f6c9e1a144e769be
+18	193026	1720382557548660210	/home/simone/VideoMamba/mamba/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/selective_scan_bwd_bf16_complex.o	4281fa2f33ae7915
